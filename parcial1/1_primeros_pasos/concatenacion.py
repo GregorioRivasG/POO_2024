@@ -1,6 +1,6 @@
 #Formas de concatenar en python
 
-nombre='Dagoberto Fiscal'
+nombre='Goyo Rivas'
 especialidad="Area de SW Multiplataforma"
 carrera="Ingenieria en Gestion y Desarrollo de SW"
 
